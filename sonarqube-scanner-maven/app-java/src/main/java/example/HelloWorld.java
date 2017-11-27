@@ -16,5 +16,5 @@ public class HelloWorld {
   public void notCovered() {
     System.out.println("notCovered");
   }
-test
+
 }
